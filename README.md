@@ -1,4 +1,4 @@
-# Python 2 with `runtime.txt`
+# Specifying a Python 2 environment with `runtime.txt`
 
 [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/python2_runtime/master)
 
